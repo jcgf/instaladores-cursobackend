@@ -4,5 +4,5 @@
 * [GIT](https://git-scm.com/downloads)
 * [Docker](https://www.docker.com/)
 
-#IDE's
+# IDE's
 * [Intellij](https://www.jetbrains.com/es-es/idea/download/#section=windows)
