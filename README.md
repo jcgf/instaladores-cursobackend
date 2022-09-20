@@ -5,4 +5,4 @@
 * [Docker](https://www.docker.com/)
 
 #IDE's
-*[Intellij](https://www.jetbrains.com/es-es/idea/download/#section=windows)
+* [Intellij](https://www.jetbrains.com/es-es/idea/download/#section=windows)
